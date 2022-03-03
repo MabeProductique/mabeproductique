@@ -6,7 +6,7 @@ My name is Martin Bérubé.
 
 I'm a **software developer** who creates **tools and libraries** to help people and businesses **increase** their **productivity** by **automating** their time-consuming and **repetitive tasks**.
 
-## My skills
+## My main skills
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,9 +20,8 @@ I'm a **software developer** who creates **tools and libraries** to help people 
 ## Where to find me?
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<!--![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)-->
 
-You can find me here on [GitHub](https://github.com/MabeTools)![GitHub](res/GitHub_64.png) or on [Linkedin](https://www.linkedin.com/in/berubemartin/)![LinkedIn](res/linkedin_64.png).
+You can find me here on [GitHub](https://github.com/MabeTools)![](res/GitHub_64.png) or on [](https://www.linkedin.com/in/berubemartin/)![LinkedIn](res/linkedin_64.png).
 
 ## How to contact me? 
 ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
