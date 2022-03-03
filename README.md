@@ -2,7 +2,7 @@
 
 # {Hello, World!}
 
-My name is Martin Bérubé.
+My name is Martin Bérubé, alias **MabeTools**
 
 I'm a **software developer** who creates **tools and libraries** to help people and businesses **increase** their **productivity** by **automating** their time-consuming and **repetitive tasks**.
 
@@ -21,31 +21,22 @@ I'm a **software developer** who creates **tools and libraries** to help people 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-You can find me here on [GitHub](https://github.com/MabeTools)![](res/GitHub_64.png) or on [](https://www.linkedin.com/in/berubemartin/)![LinkedIn](res/linkedin_64.png).
-
 ## How to contact me? 
-![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-<berube.martin@videotron.ca>
+![GitHub](res/GitHub_64.png)[GitHub](https://github.com/MabeTools)
+![LinkedIn](res/linkedin_64.png)[LinkedIn](https://www.linkedin.com/in/berubemartin)
 
-
+<!-- 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MabeTools/MabeTools">
+<a href="https://github.com/MabeTools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MabeTools&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MabeTools/MabeTools">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MabeTools&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-
-<!-- links to your social media accounts -->
-[1]: https://github.com/MabeTools
-[2]: https://www.linkedin.com/in/MabeTools/
+-->
 
 <!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
