@@ -22,8 +22,7 @@ I'm a **software developer** who creates **tools and libraries** to help people 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## How to contact me? 
-![GitHub](res/github_64.png)[GitHub](https://github.com/MabeTools)
-![LinkedIn](res/linkedin_64.png)[LinkedIn](https://www.linkedin.com/in/berubemartin)
+<mabetools@outlook.com>
 
 <!-- 
 ## &#x1f4c8; GitHub Stats
