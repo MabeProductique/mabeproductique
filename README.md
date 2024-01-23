@@ -36,6 +36,7 @@ Mon nom est Martin Bérubé, alias **{MabeProductique}**. Je suis un **conseille
 
 <!-- 
 ## Stats
+Attendre la résolution de Issue: #3594. Stats pas disponible pour repos dans organisation
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MabeProductique&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MabeProductique&hide_progress=true)
 --> 
