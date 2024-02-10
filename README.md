@@ -1,4 +1,4 @@
-![Header](res/header.png "Header")
+hu![Header](res/header.png "Header")
 
 ## À propos de moi
 
@@ -33,9 +33,9 @@ Mon nom est Martin Bérubé, alias **{MabeProductique}**. Je suis un **conseille
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MabeProductique)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berubemartin/)
 
-## Tu veux en savoir plus?
+<!--## Tu veux en savoir plus?
 [Porfolio](https://mabeproductique.github.io)
-<!-- 
+
 ## Stats
 Attendre la résolution de Issue: #3594. Stats pas disponible pour repos dans organisation
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MabeProductique&show_icons=true&theme=transparent)
