@@ -24,18 +24,15 @@ Mon nom est Martin Bérubé, alias **{MabeProductique}**. Je suis un **conseille
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!-- 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
---> 
-
+et beaucoup d'autres...
 ## Où me trouver? 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MabeProductique)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berubemartin/)
 
-<!--## Tu veux en savoir plus?
-[Porfolio](https://mabeproductique.github.io)
+## Tu veux en savoir plus?
+[Ma page web](https://mabeproductique.github.io)
 
+<!-- 
 ## Stats
 Attendre la résolution de Issue: #3594. Stats pas disponible pour repos dans organisation
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MabeProductique&show_icons=true&theme=transparent)
